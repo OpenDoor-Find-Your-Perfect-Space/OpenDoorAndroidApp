@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801312742147",
+    "project_id": "open-door-android-app",
+    "storage_bucket": "open-door-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801312742147:android:29019ed6289c70c9cb2736",
+        "android_client_info": {
+          "package_name": "com.example.opendoorandroidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5QC-aZDzIgQ8pOV1ufuX0KLlp_UnxaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
